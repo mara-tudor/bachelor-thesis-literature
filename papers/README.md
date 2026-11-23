@@ -16,12 +16,10 @@ Full-text PDFs are included where publicly available and permitted for redistrib
 | A008 | Unsupervised Machine Learning for the Detection and Interpretation of Key Features in Drip Patterns | [PubMed](https://pubmed.ncbi.nlm.nih.gov/41033067/); [journal](https://doi.org/10.1016/j.forsciint.2025.112669) | **Not confirmed** (Elsevier copyright) | — |
 | A009 | Automating Forensic Analysis: Integrating Machine Learning Algorithms for Forensic Evidence and Serial Killer Profiling | [IEEE publisher](https://doi.org/10.1109/MIUCC62295.2024.10783645) | **Not confirmed** | — |
 
-## Attribution for the three CC BY works
+## Attribution for the two CC BY works
 
 - **A002**, H. S. Song et al., *IEEE Access* (2026), DOI `10.1109/ACCESS.2026.3695998`. Source: IEEE Access; license: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). PDF is unmodified.
-- **A003**, D. Jain et al., *Improving and Evaluating Machine Learning Methods for Forensic Shoeprint Matching* (2024), arXiv `2405.14878`. Source: arXiv; license: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). PDF is unmodified.
 - **A004**, S. Robertson, R. Puch-Solis and S. McKenna, *Retrieving Shoeprint Images Using Convolutional Neural Networks* (2024), DOI `10.1109/MetroXRAINE62247.2024.10796373`. Source: University of Dundee, peer-reviewed manuscript; license: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). PDF is unmodified.
 
 The articles are third-party works: the CC BY designation applies to these paper versions, not to every article in the bibliography, nor to all resources and figures they may cite.
 
-**Manual fallback:** If the downloader cannot fetch an article, open its source link above in your browser, download the appropriate full paper PDF and save it in this `papers/` folder using the name listed. A browser-accessible PDF isn't necessarily licensed for public redistribution. For the remaining papers, keep links unless you verify their license or obtain permission from the rights holder.
