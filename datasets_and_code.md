@@ -1,0 +1,4 @@
+- [CSAFE Data Portal](https://forensicstats.org/data/)
+- [CSAFE 2D Footwear Outsole Impression Images](https://doi.org/10.25380/iastate.11624073.v1)
+- [FID-300](https://www.fid.dmi.unibas.ch/)
+- [ShoePrint Images](https://osf.io/ev8mk/overview)
