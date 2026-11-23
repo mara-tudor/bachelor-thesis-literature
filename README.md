@@ -4,7 +4,7 @@ This public repository collects and organizes research literature for a bachelor
 
 ## Scope
 
-The emphasis is on image analysis, quality assessment, segmentation, feature extraction, matching/retrieval, model evaluation, reproducibility, and accessibility of public datasets. Digital/cyber-forensics applications are not the focus.
+The literature survey explores the application of artificial intelligence and machine learning in forensic science, with a particular focus on the analysis and identification of physical evidence, including fingerprints, footwear impressions, and bloodstain patterns. It examines existing approaches, their results, limitations, and potential applications in forensic investigations.
 
 ## Contents
 
